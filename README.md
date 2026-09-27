@@ -49,6 +49,6 @@ Export query results to .csv for documentation
 
 -----------------------------------------------------------
 Internship Student – Priyanka Gawali
-The Kiran Academy Java Fullstack Developer Trainee
+**The Kiran Academy Java Fullstack Developer Trainee**
 
 📧 priyankagawali2005@gmail.com
