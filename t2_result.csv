@@ -1,0 +1,19 @@
+employee_id,employee_name,department,salary,city,joining_date,email,status
+101,"aarav sharma",it,55000.00,pune,2025-01-15,aarav@company.com,active
+102,"priya sharma",hr,35000.00,mumbai,2024-11-20,priya@company.com,active
+103,"rohan joshi",sales,42000.00,pune,2026-02-10,NULL,active
+105,"vikram deshmukh",support,18500.00,pune,2023-06-18,NULL,inactive
+106,"neha more",finance,22500.00,mumbai,2024-03-12,neha@company.com,active
+108,"john fernandes",sales,48000.00,pune,2026-01-05,john@company.com,active
+109,"meera naik",hr,32000.00,mumbai,2025-09-12,NULL,inactive
+111,"anita desai",finance,29000.00,pune,2024-12-01,anita@company.com,active
+112,"suresh gupta",support,31000.00,mumbai,2025-05-15,NULL,active
+113,"pooja khan",it,95000.00,pune,2026-06-10,pooja@company.com,active
+115,"kiran reddy",hr,45000.00,pune,2026-02-18,kiran@company.com,active
+116,"deepa mehta",finance,37000.00,mumbai,2024-10-30,NULL,active
+118,"geeta rai",it,72000.00,pune,2026-01-20,geeta@company.com,active
+119,"manoj tiwari",sales,41000.00,mumbai,2025-08-14,manoj@company.com,inactive
+121,"rahul kapoor",testing,36000.00,pune,2025-09-09,NULL,active
+122,"nisha jain",finance,64000.00,mumbai,2026-02-25,nisha@company.com,active
+124,"sonali thakur",it,58000.00,pune,2025-12-12,sonali@company.com,active
+125,"vivek kumar",sales,30000.00,mumbai,2023-11-05,NULL,inactive

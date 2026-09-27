@@ -1,0 +1,6 @@
+restaurant_name,cuisine,city,rating,avg_order_value,orders_count,delivery_fee,owner_name,brand
+"biryani junction",biryani,hyderabad,4.7,480,42000,129,"arjun reddy","biryani junction"
+"hyderabadi house",biryani,hyderabad,4.6,430,35500,29,"faizan ali","hyderabadi house"
+"pizza planet",italian,mumbai,4.6,520,31000,19,"vikas mehta","pizza planet"
+"spice route","north indian",pune,4.5,420,18500,39,"amit sharma","spice route"
+"kerala cafe","south indian",kochi,4.5,310,12700,29,"akhil menon","kerala cafe"

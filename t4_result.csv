@@ -1,0 +1,3 @@
+account_id,account_number,customer_name,account_type,branch,city,balance,credit_score,status,opened_date
+1001,acc10001,"aarav sharma",savings,"fc road",pune,85000.00,780,active,2025-01-15
+1004,acc10004,"sneha kulkarni",salary,"nashik road",nashik,67000.00,760,active,2025-08-05

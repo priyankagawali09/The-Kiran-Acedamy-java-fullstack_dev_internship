@@ -1,0 +1,8 @@
+employee_id,employee_name,department,salary,city,joining_date,email,status
+101,"aarav sharma",it,48000.00,pune,2025-01-15,aarav@company.com,active
+102,"priya sharma",development,35000.00,mumbai,2024-11-20,priya@company.com,active
+103,"rohan joshi",sales,45000.00,pune,2026-02-10,NULL,active
+105,"vikram deshmukh",support,18500.00,pune,2023-06-18,NULL,active
+112,"suresh gupta",support,31000.00,mumbai,2025-05-15,NULL,active
+120,"shweta ghosh",hr,53000.00,nagpur,2026-03-01,shweta@company.com,active
+122,"nisha jain",finance,64000.00,mumbai,2026-02-25,nisha@company.com,active
