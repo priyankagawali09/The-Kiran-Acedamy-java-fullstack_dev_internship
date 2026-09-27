@@ -27,7 +27,7 @@ main/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/The-Kiran-Acedamy-java-fullstack_dev_internship.git
+   git clone https://github.com/priyankagawali09/The-Kiran-Acedamy-java-fullstack_dev_internship
    cd The-Kiran-Acedamy-java-fullstack_dev_internship
    
 2. Run SQL scripts in MySQL:
