@@ -1,4 +1,0 @@
-product_id,product_name,category,brand,price,quantity,city,status
-201,"galaxy m55",mobile,samsung,34000.00,15,pune,available
-202,"iphone 15",mobile,apple,65000.00,12,mumbai,available
-203,"moto edge 50",mobile,motorola,28000.00,20,pune,available
