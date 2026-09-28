@@ -1,6 +1,6 @@
 # The Kiran Academy - Java Fullstack Internship 🚀
 
-This repository contains SQL practice tasks and their corresponding results, completed during the **Java Fullstack Developer Internship** at Kiran Academy.
+This repository contains SQL practice tasks completed during the **Java Fullstack Developer Internship** at Kiran Academy.
 
 ---
 
@@ -9,18 +9,10 @@ This repository contains SQL practice tasks and their corresponding results, com
 main/
 - task1.sql
 - task2.sql
-  -->t2_result.csv
 - task3.sql
-  -->t3_result.cs
 - task4.sql
-  -->t4_result.csv
 - task5.sql
-  -->t5_result.csv
 - task6.sql
-  -->t6_result.csv
-
-
-
 ---
 
 ## 🛠 How to Run
@@ -33,8 +25,7 @@ main/
 2. Run SQL scripts in MySQL:
  ```bash
 mysql -u root -p < task1.sql
-Check results:
-Results are saved in .csv files for verification.
+.
 
 ```
 
@@ -45,7 +36,6 @@ Practice DML: insert, update, delete
 
 Practice DQL: select, where, and, or, not, between, in, like, limit
 
-Export query results to .csv for documentation
 
 -----------------------------------------------------------
 Internship Student – Priyanka Gawali
